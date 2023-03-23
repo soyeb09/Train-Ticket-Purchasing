@@ -1,0 +1,13 @@
+﻿  project.cpp
+F:\Visual Projects\project\project.cpp(854,35): warning C4018: '<': signed/unsigned mismatch
+F:\Visual Projects\project\project.cpp(1060,47): warning C4018: '<': signed/unsigned mismatch
+F:\Visual Projects\project\project.cpp(1104,47): warning C4018: '<': signed/unsigned mismatch
+F:\Visual Projects\project\project.cpp(1209,59): warning C4018: '<': signed/unsigned mismatch
+F:\Visual Projects\project\project.cpp(1240,59): warning C4018: '<': signed/unsigned mismatch
+F:\Visual Projects\project\project.cpp(1310,35): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 274 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  project.vcxproj -> F:\Visual Projects\project\Release\project.exe
